@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProsysExam.API.props" />
+</Project>

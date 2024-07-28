@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gMG3CZQZXCOeWw6PcWmNoJoOSvWGjbwKV0d4/tIvwig=",
+  "Source": "ProsysExam.API",
+  "BasePath": "_content/ProsysExam.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
